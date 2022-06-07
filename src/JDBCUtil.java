@@ -4,6 +4,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+
+// 완성본 업로드 후 수정 테스트  
+
 public class JDBCUtil {
 
 	public static Connection getConnection() {
